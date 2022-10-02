@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning PENETRATION TESTING AND DATA SCIENCE RELATED LANGUAGES...
 - 💞️ I’m looking to collaborate on ENTERPRISE SYSTEM DEVELOPMENT...
 - 📫 How to reach me ...
-- 
+- Twitter: @nmintoh
+- Facebook: @ceonmintoh
+- Website: https://nelson.nelsonict.org.ng
+- Email: nelson@nelsonict.org.ng
 
 <!---
 ceonmintoh/ceonmintoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
