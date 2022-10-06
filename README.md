@@ -1,13 +1,13 @@
 - 👋 Hi, I’m NELSON JOSEPH MINTOH the CEO/FOUNDER of NELSON ICT SERVICES AND 747 SECURITY
 - 👀 I’m interested in MOBILE, WEB, DESKTOP AND BLOCKCHAIN DEVELOPMENT...
 -👀 I Have Experience in the Following Languages and Framework
---Python (Django)
---Java
---C++
---C# (.NET)
---Ruby
---Go
---R
+- -Python (Django)
+- - Java
+- - C++
+- - C# (.NET)
+- - Ruby
+- - Go
+- - R
 --PHP (Laravel, Codeigniter)
 - 🌱 I’m currently learning PENETRATION TESTING AND DATA SCIENCE RELATED LANGUAGES...
 - 💞️ I’m looking to collaborate on ENTERPRISE SYSTEM DEVELOPMENT...
