@@ -1,15 +1,7 @@
+[![MasterHead](https://github.com/ceonmintoh/ceonmintoh/blob/2a05edc3cd21f15fb59e65846f4423b7093c26cc/bg.webp)](https://github.com/ceonmintoh)]
+
 - 👋 Hi, I’m NELSON JOSEPH MINTOH the CEO/FOUNDER of NELSON ICT SERVICES AND 747 SECURITY
-- 👀 I’m interested in MOBILE, WEB, DESKTOP AND BLOCKCHAIN DEVELOPMENT...
--👀 I Have Experience in the Following Languages and Framework
-- -Python (Django)
-- - Java
-- - C++
-- - C# (.NET)
-- - Ruby
-- - Go
-- - R
---PHP (Laravel, Codeigniter)
-- 🌱 I’m currently learning PENETRATION TESTING AND DATA SCIENCE RELATED LANGUAGES...
+- 👀 I’m interested in MOBILE, WEB, DESKTOP AND BLOCKCHAIN DEVELOPMENT, PENETRATION TESTING AND DATA SCIENCE RELATED LANGUAGES...
 - 💞️ I’m looking to collaborate on ENTERPRISE SYSTEM DEVELOPMENT...
 - 📫 How to reach me ...
 - Twitter: @nmintoh
