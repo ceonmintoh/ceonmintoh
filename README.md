@@ -34,10 +34,15 @@
 - Website: https://nelson.nelsonict.org.ng
 - Email: nelson@nelsonict.org.ng
 [Nelson JM]: https://nelson.nelsonict.org.ng
+
 [Live demo]: https://github.com/ceonmintoh
+
 [Patreon]:  https://patreon.com/gemkrook
+
 [Help me cut server costs]: https://paypal.me/nmintoh
+
 [Become a sponsor]: https://paypal.me/nmintoh
+
 [Ÿ HŸPE]: https://yhype.me
 
 <!---
