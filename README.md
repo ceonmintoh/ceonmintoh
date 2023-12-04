@@ -7,7 +7,15 @@ Welcome to my GitHub profile! I love crafting elegant solutions to complex probl
 🌟 Let's connect and build something amazing together!
 
 ### 🚀 Technologies & Tools
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=blue)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code&logoColor=blue)
 
 ### 🌱 What I'm Up To
 
